@@ -44,5 +44,6 @@ This repository contains laboratory reports for the **Analog CMOS Circuits** cou
 - [Lab 1 – Source Follower and Cascode](reports/lab1_source_follower_and_cascode.pdf)
 - [Lab 2 – Differential Amplifier](reports/lab2_differential_amplifier.pdf)
 - [Lab 3 – 5T Op-Amp with Source Follower](reports/lab3_5T_OpAmp_Source_Follower_Design.pdf)
+- [Lab 4 – Two-Stage Miller Op-Amp](reports/lab4_Two_Stage_Miller_OpAmp.pdf)
 
 All simulations were performed using Cadence Virtuoso.
