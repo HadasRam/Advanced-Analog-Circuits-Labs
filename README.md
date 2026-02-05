@@ -18,7 +18,7 @@ This repository contains laboratory reports for the **Analog CMOS Circuits** cou
 - Small-signal parameters (gm, Rout)
 - Current steering and headroom analysis
 
-  ### Lab 3 – 5T Operational Amplifier with Source Follower
+### Lab 3 – 5T Operational Amplifier with Source Follower
 – Differential-to-single-ended 5T op-amp design  
 – Unity-gain buffer (UGB) configuration  
 – Headroom and saturation verification  
