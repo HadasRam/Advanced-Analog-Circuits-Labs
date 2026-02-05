@@ -27,6 +27,19 @@ This repository contains laboratory reports for the **Analog CMOS Circuits** cou
 - AC analysis and Bode plot
 - Phase margin evaluation and compensation
 
+### Lab 4 – Two-Stage Miller Operational Amplifier
+- Two-stage CMOS operational amplifier design
+- Miller compensation for stability improvement
+- Unity-gain buffer (UGB) configuration
+- Dominant pole and zero analysis
+- Phase margin optimization (PM > 60°)
+- DC operating point and headroom verification
+- Small-signal gain and output resistance analysis
+- Transient step response and settling time
+- Bandwidth estimation
+- AC analysis and Bode plot
+
+
 ## Reports
 - [Lab 1 – Source Follower and Cascode](reports/lab1_source_follower_and_cascode.pdf)
 - [Lab 2 – Differential Amplifier](reports/lab2_differential_amplifier.pdf)
